@@ -26,7 +26,7 @@
 
 
 # 학습 주제
-학습주제는 [gyoogle](https://github.com/gyoogle/tech-interview-for-developer)을 참고했습니다.
+학습주제는 [면접을 위한 CS 전공지식 노트](http://www.yes24.com/Product/Goods/108887922?pid=123487&cosemkid=go16505206189583564&gclid=Cj0KCQiA-oqdBhDfARIsAO0TrGHGLi76xa9JIZQzFRxu0-DEuBH1N9k0L7-fR2ZCmG9wnlNOss5enlMaAiyuEALw_wcB)을 참고했습니다.
 
 
 

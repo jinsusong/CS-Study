@@ -13,7 +13,7 @@
 | 이름   | GitHub                                         |
 | ------ | ---------------------------------------------- |
 | 송진수 | [@Song, Jinsu]() |
-| 홍두표 | [@dp H]() |
+| 홍두표 | [@Hong, dupyo](https://github.com/dupyo) |
 | 박설아 | [@sora](https://github.com/developer-sora) |
 
 

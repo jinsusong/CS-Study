@@ -17,6 +17,9 @@
 | 홍두표 | [@Hong, dupyo](https://github.com/dupyo) |
 | 박설아 | [@sora](https://github.com/developer-sora) |
 | 안유진 | [@anuu](https://github.com/anuu0916) |
+| 윤정민 | [@jungmiin](https://github.com/jungmiin) |
+| 한승원 | [@SW-H](https://github.com/SW-H) |
+| 예림 | [@yerimstar](https://github.com/yerimstar) |
 
 
 ## 💻 타임 테이블

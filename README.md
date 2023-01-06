@@ -95,7 +95,7 @@
 - 데이터 링크 계층을 처리하는 기기
 - 물리 계층을 처리하는 기기
 
-### [IP 주소](https://woolen-script-3bd.notion.site/IP-HTTP-82c191b5c5574a9b8020c3dafde3b815)
+### [IP 주소](https://github.com/jinsusong/CS-Study/blob/main/IP)
 - ARP
 - 홉바이홉 통신
 - IP 주소 체계

@@ -100,7 +100,7 @@
 - 데이터 링크 계층을 처리하는 기기
 - 물리 계층을 처리하는 기기
 
-### [IP 주소](https://github.com/jinsusong/CS-Study/blob/main/IP) 
+### IP 주소 
 
 허예림, 박설아, 송진수, 안유진, 윤정민, 한승원, 홍두표, 
 - ARP
@@ -108,8 +108,8 @@
 - IP 주소 체계
 - IP 주소를 이용한 위치 정보
 
-### [HTTP](https://woolen-script-3bd.notion.site/IP-HTTP-82c191b5c5574a9b8020c3dafde3b815) 
-예림, 박설아, 송진수, 안유진, 윤정민, 한승원, 홍두표, 
+### HTTP
+예림, 박설아, [송진수](https://woolen-script-3bd.notion.site/IP-HTTP-82c191b5c5574a9b8020c3dafde3b815), 안유진, 윤정민, 한승원, 홍두표, 
 - HTTP/1.0
 - HTTP/1.1
 - HTTP/2

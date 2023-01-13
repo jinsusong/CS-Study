@@ -126,7 +126,7 @@
 
 ### 운영체제와 컴퓨터 
 
-[허예림](), [박설아](), [송진수](https://woolen-script-3bd.notion.site/4bfe74dd5b5547fc9c83c246f24c9202), [안유진](), [윤정민](), [한승원](), [홍두표]() 
+[허예림](), [박설아](https://velog.io/@developer-sora/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%99%80-%EC%BB%B4%ED%93%A8%ED%84%B0), [송진수](https://woolen-script-3bd.notion.site/4bfe74dd5b5547fc9c83c246f24c9202), [안유진](), [윤정민](), [한승원](), [홍두표]() 
 - 운영체제의 역할과 구조
 - 컴퓨터의 요소
 

@@ -110,7 +110,7 @@
 - IP 주소를 이용한 위치 정보
 
 ### HTTP
-예림, 박설아, [송진수](https://woolen-script-3bd.notion.site/IP-HTTP-82c191b5c5574a9b8020c3dafde3b815), 안유진, 윤정민, 한승원, 홍두표, 
+[허예림](), [박설아](), [송진수](https://woolen-script-3bd.notion.site/IP-HTTP-82c191b5c5574a9b8020c3dafde3b815), [안유진](), [윤정민](), [한승원](), [홍두표]() 
 - HTTP/1.0
 - HTTP/1.1
 - HTTP/2
@@ -124,13 +124,13 @@
 
 ### 운영체제와 컴퓨터 
 
-허예림, 박설아, [송진수](https://woolen-script-3bd.notion.site/4bfe74dd5b5547fc9c83c246f24c9202), 안유진, 윤정민, 한승원, 홍두표, 
+[허예림](), [박설아](), [송진수](https://woolen-script-3bd.notion.site/4bfe74dd5b5547fc9c83c246f24c9202), [안유진](), [윤정민](), [한승원](), [홍두표]() 
 - 운영체제의 역할과 구조
 - 컴퓨터의 요소
 
 ### 메모리 
 
-허예림, 박설아, [송진수](https://woolen-script-3bd.notion.site/24f0983044de43568ea27d6e80fbce6b), 안유진, 윤정민, 한승원, 홍두표, 
+[허예림](), [박설아](), [송진수](https://woolen-script-3bd.notion.site/24f0983044de43568ea27d6e80fbce6b), [안유진](), [윤정민](), [한승원](), [홍두표]() 
 - 메모리 계층
 - 메모리 관리
 

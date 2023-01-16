@@ -132,7 +132,7 @@
 
 ### 메모리 
 
-[허예림](), [박설아](), [송진수](https://woolen-script-3bd.notion.site/24f0983044de43568ea27d6e80fbce6b), [안유진](), [윤정민](), [한승원](), [홍두표]() 
+[허예림](), [박설아](https://velog.io/@developer-sora/%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B3%84%EC%B8%B5%EA%B3%BC-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC), [송진수](https://woolen-script-3bd.notion.site/24f0983044de43568ea27d6e80fbce6b), [안유진](), [윤정민](), [한승원](), [홍두표]() 
 - 메모리 계층
 - 메모리 관리
 
